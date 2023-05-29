@@ -22,7 +22,7 @@ flowchart LR
 ```
 ## results
 | current | voltage |
-|--|--|--|
+|--|--|
 |1A|5V|
 |2A|4.9V|
 |2.6A|4.9V|
