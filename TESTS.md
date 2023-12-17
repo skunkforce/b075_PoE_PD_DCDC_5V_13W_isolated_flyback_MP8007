@@ -17,7 +17,7 @@ Connected
 ```mermaid
 flowchart LR
   b004 --> b075 
-  b075 --> r[ariable resistor between pinns 1 and 10 of J2]
+  b075 --> r[variable resistor between pinns 1 and 10 of J2]
   
 ```
 ## results
